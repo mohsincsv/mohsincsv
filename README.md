@@ -1,10 +1,10 @@
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h2 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Mohsin Iqbal</h1>
+         width="45" /> I'm Mohsin Iqbal</h2>
 
 # About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently working on Open Source Projects.<br>🌱 I’m currently learning more about Machine Learning.<br>👯 I’m looking to collaborate on projects that might benefit humanity.<br>💬 Ask me about the data.<br>📫 How to reach me: check the social links below.<br>
+🔭 I’m currently studying at the University of Central Punjab with a bachelors program on Computer Science 🚀<br><br>🌱 I’m currently learning more about Machine Learning.<br>👯 I’m looking to collaborate on projects that might benefit humanity.<br>💬 Ask me about the data.<br>📫 How to reach me: check the social links below.<br>
 
 
 # Socials:

@@ -1,5 +1,5 @@
 # About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently working on open source projects.<br>🌱 I’m currently learning more about machine learning.<br>👯 I’m looking to collaborate on projects that might benefit humanity.<br>🤔 I’m looking for internship opportunities.<br>💬 Ask me about the data.<br>📫 How to reach me: check the social links below.<br>
+😄 Pronouns: He/His<br>🔭 I’m currently working on Open Source Projects.<br>🌱 I’m currently learning more about Machine Learning.<br>👯 I’m looking to collaborate on projects that might benefit humanity.<br>💬 Ask me about the data.<br>📫 How to reach me: check the social links below.<br>
 
 
 # Socials:
@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinipk&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

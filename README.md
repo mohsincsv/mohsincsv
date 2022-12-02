@@ -4,7 +4,11 @@
          width="45" /> I'm Mohsin Iqbal</h2>
 
 # About Me:
-🔭 I’m currently studying at the University of Central Punjab with a bachelors program on Computer Science 🚀<br><br>🌱 I’m currently learning more about Machine Learning.<br>👯 I’m looking to collaborate on projects that might benefit humanity.<br>💬 Ask me about the data.<br>📫 How to reach me: check the social links below.<br>
+🔭 I’m currently studying at the University of Central Punjab with a bachelors program on Computer Science 🚀<br>
+- 🌱 I’m currently learning more about Data Science.
+- 👯 I’m looking to collaborate on projects that might benefit humanity.
+- 💬 Ask me anything about the data, I'll make sure to learn from it.<br>
+- 📫 How to reach me: check the social links below.<br>
 
 
 # Socials:

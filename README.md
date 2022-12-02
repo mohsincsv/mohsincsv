@@ -3,9 +3,6 @@
          height="45"
          width="45" /> I'm Mohsin Iqbal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
-
-
 # About Me:
 😄 Pronouns: He/His<br>🔭 I’m currently working on Open Source Projects.<br>🌱 I’m currently learning more about Machine Learning.<br>👯 I’m looking to collaborate on projects that might benefit humanity.<br>💬 Ask me about the data.<br>📫 How to reach me: check the social links below.<br>
 

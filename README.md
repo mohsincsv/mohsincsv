@@ -1,5 +1,5 @@
 # About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently working on my final year project.<br>🌱 I’m currently learning machine learning.<br>👯 I’m looking to collaborate on open-source projects.<br>🤔 I’m looking for Internship opportunities.<br>💬 Ask me about the Data.<br>📫 How to reach me: check the social links below.<br>
+😄 Pronouns: He/His<br>🔭 I’m currently working on open source projects.<br>🌱 I’m currently learning more about machine learning.<br>👯 I’m looking to collaborate on projects that might benefit humanity.<br>🤔 I’m looking for internship opportunities.<br>💬 Ask me about the data.<br>📫 How to reach me: check the social links below.<br>
 
 
 # Socials:

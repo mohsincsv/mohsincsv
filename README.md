@@ -1,9 +1,7 @@
-<h2 align="center"> Salam,👋 I'm Mohsin Iqbal</h2>
+<h2 align="center"> Hi, I'm Mohsin Iqbal</h2>
 
-## About Me:
-🔭 I’m currently studying at the University of Central Punjab with a bachelors program on Computer Science 🚀<br>
 
-- 🌱 I’m currently learning more about Data Science.
+- 🔭 I’m currently working as AI/ML Engineer at a Stealth AI Startup. <br>
 - 👯 I’m looking to collaborate on projects that might benefit humanity.
 - 💬 Ask me anything about the data, I'll make sure to learn from it.<br>
 - 📫 How to reach me: check the social links below.<br>

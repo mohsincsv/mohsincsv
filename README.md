@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as AI/ML Engineer at a Stealth AI Startup. <br>
 - 👯 I’m looking to collaborate on projects that might benefit humanity.
-- 💬 Ask me anything about the data, I'll make sure to learn from it.<br>
+- 💬 Ask me anything about the AI, I'll make sure to learn from it.<br>
 - 📫 How to reach me: check the social links below.<br>
 
 

@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Mohsin Iqbal</h2>
 
 
-- 🔭 I’m currently working as AI/ML Engineer at a Stealth AI Startup. <br>
+- 🔭 I’m an AI Engineer by day, and Researcher by night. <br>
 - 👯 I’m looking to collaborate on projects that might benefit humanity.
 - 💬 Ask me anything about the AI, I'll make sure to learn from it.<br>
 - 📫 How to reach me: check the social links below.<br>

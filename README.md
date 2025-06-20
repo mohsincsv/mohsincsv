@@ -17,7 +17,7 @@ This beauty manifests in five key dimensions:
 
 Do I consistently achieve this ideal balance? I must acknowledge that I don't - sometimes what appears as elegant design is actually concealing underlying disorder. Nevertheless, I'm passionate about finding clarity within complexity.
 
-In past 6 years, I've worked across both AI research and engineering as a Researcher / ML Engineer / AI Engineer. I often find myself focusing on building systems that not only function efficiently but also deliver meaningful impact. I've learned to bridge theory, practical knowledge, and creative thinking to instill real impact in products.
+In past 6 years, I've worked across both AI research and engineering as a Researcher / ML Engineer / AI Engineer. I often find myself focusing on building systems that not only function efficiently but also deliver meaningful impact. I've learned to bridge research, practical knowledge, and creative thinking to instill real impact in products.
 
 ## Technologies I Work With
 

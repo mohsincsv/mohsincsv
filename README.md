@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Mohsin
 
 I'm an AI Engineer and Researcher with a current focus on **Generative AI, Reinforcement Learning and Computer Vision**.<br>
-I'm most active on [twitter](www.x.com/mohsincsv), come say hi
 
 ## What I Do
 
@@ -29,3 +28,11 @@ In past 6 years, I've worked across both AI research and engineering as a Resear
 - `AWS (S3, SQS, SageMaker, EC2, EKS, Lambda)`, `GCP`
 - `Django`, `FastAPI`, `Flask`
 - `Architecting, designing, and writing prompt pipelines`, `prompt versioning`, `validation-driven evaluation pipelines`
+
+## Writing
+
+- [How I Got Detained by Punjab Police for Running an Unauthorized Tech Workshop in Lahore](https://medium.com/@mohsincsv/how-i-got-detained-by-punjab-police-for-running-an-unauthorized-tech-workshop-in-lahore-317f299bed22)
+
+## Links
+
+[Website](https://mohsincsv.github.io) · [Medium](https://medium.com/@mohsincsv) · [X/Twitter](https://x.com/mohsincsv) · [LinkedIn](https://www.linkedin.com/in/mohsincsv)
